@@ -1,1 +1,1 @@
-# Covid-Mask-Detection
+# Covid-Mask-Detection using Neural Networks and Pytorch
